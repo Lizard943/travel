@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305697775862",
+    "project_id": "travellearn2-be63b",
+    "storage_bucket": "travellearn2-be63b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305697775862:android:696e0d5225589a51fe8cd7",
+        "android_client_info": {
+          "package_name": "com.example.travellearn2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA_WcUgHByzAQp6ue5r1kXKVkmRo07svw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
